@@ -240,8 +240,8 @@
   },
 
 "fonts":{
-  "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
-  "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+  "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/janisslsm/vdthemes/main/Minecraft.ttf",
+  "ggsans-Bold": "https://raw.githubusercontent.com/janisslsm/vdthemes/main/Minecraft.ttf",
   "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
   "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
   "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
