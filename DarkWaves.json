@@ -1,13 +1,15 @@
 {
-  "name": "Ataraxia",
-  "description": "A state of serene calmness",
+  "name": "DarkWaves",
+  "description": "My second attempt at making themes. Credits: Vodka for the base & Felix for the image",
   "authors": [
-
-      {
-          "name": "ft.vodka",
-          "id": "1068030255455015013"
-        
-      }
+    {
+      "name": "Cookietsu",
+      "id": "628165423191293962"
+    },
+    {
+      "name": "Felix Svetloozerskiy",
+      "id": "354936587186077707"
+    }
   ],
   "semanticColors": {
       "HEADER_PRIMARY": [
@@ -263,7 +265,7 @@
   
   "background": {
       "blur": 0.5,
-      "url": "https://github.com/VodkaXMartini/images/blob/main/Ataraxia.jpg?raw=true",
+      "url": "https://cdn.hyrule.pics/504e836ac.jpeg",
       "alpha": 0.7
       },
       "plus":{
