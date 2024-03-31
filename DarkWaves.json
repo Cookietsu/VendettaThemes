@@ -100,7 +100,7 @@
            "#7C6766"
        ],
        "TEXT_LINK": [
-           "0018f1"
+           "#0018f1"
        ],
        "TEXT_DANGER": [
            "#f10025"
@@ -293,7 +293,7 @@
         "ClydeIcon": "#5865F2",
         "ic_search": "#c4a7e7",
         "debug": "#31748f",
-        "Discord": "#5865F2",
+        "Discord": "#fc39cd",
         "down_arrow": "#c4a7e7",
         "Friends": "#31748f",
         "GlobeEarthIcon": "#31748f",
