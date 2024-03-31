@@ -55,13 +55,13 @@
            "#2b2a2b"
        ],
        "BACKGROUND_MOBILE_PRIMARY": [
-           "#2b2a2b"
+           "#575657"
        ],
        "BG_BASE_TERTIARY": [
          "#2b2a2b"
      ],
        "BACKGROUND_MOBILE_SECONDARY": [
-           "#2b2a2b"
+           "#2d2c2c"
        ],
        "BACKGROUND_NESTED_FLOATING": [
            "#17121A"
@@ -100,10 +100,10 @@
            "#7C6766"
        ],
        "TEXT_LINK": [
-           "#C2A8A7"
+           "0018f1"
        ],
        "TEXT_DANGER": [
-           "#5A4565"
+           "#f10025"
        ],
        "KEYBOARD": [
            "#312438"
