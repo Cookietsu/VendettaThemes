@@ -13,10 +13,10 @@
       "#6e44e5"
     ],
     "HEADER_SECONDARY": [
-      "ff80ff"
+      "#ff0000"
     ],
     "TEXT_NORMAL": [
-      "9999ff"
+      "#9999ff"
     ],
     "TEXT_MUTED": [
       "#10717c"
